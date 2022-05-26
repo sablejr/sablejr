@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marc Dugas ! (@sablejr). This is my personal GITHUB.
+- 👋 Hi, I’m Marc Dugas ! (@sablejr). I am studying computer science undergrad at UMASS Boston (this will be my final semester!). This is my personal GITHUB.
 
 - 📫 How to reach me sablejr@gmail.com
 
